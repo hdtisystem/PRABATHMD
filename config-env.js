@@ -33,6 +33,6 @@ SESSION_ID = envv2.SESSION_ID
 module.exports = {
     SESSION_ID: SESSION_ID,    
     BOT_NUMBER:  BOT_NUMBER,
-    GITHUB_USERNAME: hdtimusic@gmail.com,
+    GITHUB_USERNAME: username,
     GITHUB_AUTH_TOKEN: GITHUB_TOKEN,
 };
